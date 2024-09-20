@@ -6,18 +6,18 @@ Welcome to the Hotel Management System project, a web-based application designed
 This project aims to create a streamlined system for managing hotel operations such as room bookings, reservations, and customer management. The system uses a robust backend built with Spring Boot and MySQL, providing secure and efficient handling of data.
 
 # Features
-User Registration & Authentication: Secure login using JWT authentication.
-Room Management: Add, update, view, and delete room details.
-Booking Management: Users can view room availability, book rooms, and manage reservations.
-Admin Panel: Admins can manage all bookings, rooms, and users.
-REST APIs: Complete backend APIs developed for smooth interaction between client and server.
+1) User Registration & Authentication: Secure login using JWT authentication.
+2) Room Management: Add, update, view, and delete room details.
+3) Booking Management: Users can view room availability, book rooms, and manage reservations.
+4) Admin Panel: Admins can manage all bookings, rooms, and users.
+5) REST APIs: Complete backend APIs developed for smooth interaction between client and server.
 
 # Tech Stack
-Backend: Java, Spring Boot, Spring Security, Hibernate
-Database: MySQL with JPA for data persistence
-Frontend: HTML, CSS, JavaScript 
-Security: JWT Authentication
-Tools: IntelliJ IDEA, Git
+1) Backend: Java, Spring Boot, Spring Security, Hibernate
+2) Database: MySQL with JPA for data persistence
+3) Frontend: HTML, CSS, JavaScript 
+4) Security: JWT Authentication
+5) Tools: IntelliJ IDEA, Git
 
 A hotel booking and management contains several features -:
 1) A home page where you can search the rooms and facilities of rooms
@@ -27,7 +27,6 @@ A hotel booking and management contains several features -:
    
 ## This is our website home page
 ![image](https://github.com/user-attachments/assets/ef1509d9-df3a-4f7c-b5d1-882ddf272021)
-![image](https://github.com/user-attachments/assets/3bd259de-5581-4247-b317-79d10651b764)
 
 ## here you can check the all room types, checkInDate, checkOutDate and availability of rooms
 ![image](https://github.com/user-attachments/assets/81a62987-f260-477d-a85d-b8f14e4b913e)
